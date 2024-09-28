@@ -1,0 +1,37 @@
+#Machine Learning:-
+Data Preparation
+Data Scaling
+Dimensionality Reduction
+Model choosing
+Training and Testing Model
+Hyperparamter tuning 
+Evaluation 
+Deployment
+
+Spaceship-Titanic dataset from GitHub:-  
+
+Test data:- https://github.com/SoumyaCO/Spaceship-Titanic/blob/main/data/test.csv
+Train data:- https://github.com/SoumyaCO/Spaceship-Titanic/blob/main/data/train.csv
+
+Data Cleaning And Preprocessing
+
+https://colab.research.google.com/drive/1Bi3a05A8KX3cdK9VFwRgrA-69QTyZupE#scrollTo=8HJqhwqIX7gJ
+
+# MACHINE_LEARNING
+Definition:-
+
+Types:-
+A.  Supervised Learning
+B.  Unsupervised Learning
+C.  Reinforcement Learning
+
+ A.1   Linear Regression
+      1. Activation Function
+      2. Cost Function 
+Link of the code:- 
+
+A.2   Logistic Regression
+ 1. Train dataset
+ 2. Validation dataset
+ 3. Test dataset
+Link of the code:-
